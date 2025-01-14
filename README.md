@@ -15,7 +15,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **DEVOXX**
+- 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me: **satyamkumarsinghjaisidih@gmail.com**
 

@@ -79,13 +79,13 @@
 ---
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam-singh-62&show_icons=true&locale=en&layout=compact" alt="satyam-singh-62" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam6203&show_icons=true&locale=en&layout=compact" alt="satyam6203" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam-singh-62&show_icons=true&locale=en" alt="satyam-singh-62" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam6203&show_icons=true&locale=en" alt="satyam6203" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam-singh-62&" alt="satyam-singh-62" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam6203&" alt="satyam6203" />
 </p>

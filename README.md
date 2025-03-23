@@ -26,7 +26,7 @@
   <a href="https://instagram.com/s.a.t.y.a.m.-.s.i.n.g.h" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.a.t.y.a.m.-.s.i.n.g.h" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/satyam-kumar-singh-a5b04b350/" target="blank">
+  <a href="https://www.linkedin.com/in/satyam-kumar-singh-401047358/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam-kumar-singh" height="30" width="40" />
   </a>
 </p>

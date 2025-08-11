@@ -29,6 +29,14 @@
   <a href="https://www.linkedin.com/in/satyam-kumar-singh-401047358/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam-kumar-singh" height="30" width="40" />
   </a>
+  <a href="https://leetcode.com/u/satyam6203/" target="_blank" rel="noopener noreferrer">
+  <img 
+    align="center" 
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
+    alt="LeetCode Profile" 
+    height="30" 
+    width="40" 
+  />
 </p>
 
 ---

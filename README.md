@@ -4,7 +4,7 @@
 <h3 align="center">A passionate JAVA Full Stack Developer from India</h3>
 
 <img align="right" alt="Coding" 
-src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" 
+src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" 
 width="400"/>
 
 <p align="left">
@@ -97,20 +97,14 @@ width="400"/>
 
 ---
 
-<p>
-  <img align="left" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam6203&show_icons=true&locale=en&layout=compact" 
-  alt="satyam6203" />
+<p align="center">
+  <img height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=satyam6203&show_icons=true&theme=radical"/>
+  <img height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam6203&layout=compact&theme=radical"/>
 </p>
 
-<p>
-  <img align="center" 
-  src="https://github-readme-stats.vercel.app/api?username=satyam6203&show_icons=true&locale=en" 
-  alt="satyam6203" />
-</p>
-
-<p>
-  <img align="center" 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=satyam6203" 
-  alt="satyam6203" />
+<p align="center">
+  <img height="180em"
+    src="https://streak-stats.demolab.com?user=satyam6203&theme=radical"/>
 </p>
